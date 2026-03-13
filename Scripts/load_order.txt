@@ -1,0 +1,198 @@
+Settings.rb
+================.rb
+RGSS2Compatibility.rb
+RPG__Sprite.rb
+Win32API.rb
+Sockets.rb
+DebugConsole.rb
+================ (1).rb
+Game_Temp.rb
+Game_System.rb
+Game_Switches.rb
+Game_Variables.rb
+Game_SelfSwitches.rb
+Game_Screen.rb
+Game_Picture.rb
+Game_Map.rb
+Game_Map_Resolution.rb
+Game_Map_Autoscroll.rb
+Game_CommonEvent.rb
+Game_Character.rb
+Game_Event.rb
+Game_Player.rb
+Walk_Run.rb
+================ (2).rb
+Sprite_Character.rb
+Sprite_Picture.rb
+Sprite_Timer.rb
+================ (3).rb
+Sprite_Resizer.rb
+Spriteset_Map.rb
+Tilemap_XP.rb
+Tilemap_Perspective.rb
+TilemapLoader.rb
+TileDrawingHelper.rb
+AnimationSprite.rb
+ParticleEngine.rb
+DynamicShadows.rb
+================ (4).rb
+Interpreter.rb
+Event.rb
+File_Mixins.rb
+Intl_Messages.rb
+PBDebug.rb
+================ (5).rb
+Audio.rb
+AudioPlay.rb
+AudioUtilities.rb
+================ (6).rb
+BitmapCache.rb
+Window.rb
+SpriteWindow.rb
+DrawText.rb
+Messages.rb
+TextEntry.rb
+EventScene.rb
+================ (7).rb
+Scene_Map.rb
+Scene_Intro.rb
+Scene_Controls.rb
+Scene_Movie.rb
+Scene_Credits.rb
+Transitions.rb
+================ (8).rb
+MiscData.rb
+PBMove.rb
+PBStatuses.rb
+PBTypes_Extra.rb
+PBNatures.rb
+PBExperience.rb
+PBStats.rb
+PBRibbons.rb
+PBEggGroups.rb
+PBColors.rb
+PBEnvironment.rb
+================ (9).rb
+PBEffects.rb
+PBWeather.rb
+PBTargets.rb
+PokeBattle_ActiveSideField.rb
+PokeBattle_DamageState.rb
+PokeBattle_Battler.rb
+PokeBattle_BattlerEffects.rb
+PokeBattle_Move.rb
+PokeBattle_MoveEffects.rb
+PokeBattle_Battle.rb
+PokeBattle_AI.rb
+PokeBattle_SceneConstants.rb
+PokeBattle_Scene.rb
+PokeBattle_AnimationPlayer.rb
+PokeBattle_SafariZone.rb
+PokeBattle_BattlePalace.rb
+PokeBattle_BattleArena.rb
+PokeBattle_BattleRecord.rb
+PokeBattle_OtherScenes.rb
+PokeBattle_BattlePeer.rb
+PokeBattle_Clauses.rb
+================ (10).rb
+PBTerrain.rb
+PField_Field.rb
+PField_FieldWeather.rb
+PField_Metadata.rb
+PField_MapFactory.rb
+PField_HiddenMoves.rb
+PField_Encounters.rb
+PField_EncounterModifiers.rb
+PField_RoamingPokemon.rb
+PField_RandomDungeons.rb
+PField_BerryPlants.rb
+PField_DayCare.rb
+PField_DependentEvents.rb
+PField_Time.rb
+================ (11).rb
+PokeBattle_Trainer.rb
+PTrainer_NPCTrainers.rb
+================ (12).rb
+PItem_Items.rb
+PItem_ItemEffects.rb
+PItem_PokeBalls.rb
+PItem_PokeRadar.rb
+PItem_Mail.rb
+PItem_Sprites.rb
+================ (13).rb
+PokeBattle_Pokemon.rb
+Pokemon_MultipleForms.rb
+Pokemon_MegaEvolution.rb
+Pokemon_ShadowPokemon.rb
+Pokemon_Evolution.rb
+Pokemon_Chatter.rb
+Pokemon_Sprites.rb
+================ (14).rb
+PScreen_PauseMenu.rb
+PScreen_Pokedex.rb
+PScreen_PokedexNestForm.rb
+PScreen_Party.rb
+PScreen_Summary.rb
+PScreen_Bag.rb
+PScreen_Pokegear.rb
+PScreen_RegionMap.rb
+PScreen_Phone.rb
+PScreen_Jukebox.rb
+PScreen_TrainerCard.rb
+PScreen_Load.rb
+PScreen_Save.rb
+PScreen_Options.rb
+PScreen_Storage.rb
+PScreen_EggHatching.rb
+PScreen_Trading.rb
+PScreen_MoveRelearner.rb
+PScreen_PurifyChamber.rb
+PScreen_Mart.rb
+PScreen_MysteryGift.rb
+PScreen_HallOfFame.rb
+================ (15).rb
+PBattle_Safari.rb
+PBattle_BugContest.rb
+PBattle_OrgBattle.rb
+PBattle_OrgBattleRules.rb
+PBattle_OrgBattleGenerator.rb
+PBattle_BattleSwap.rb
+================ (16).rb
+PMinigame_Duel.rb
+PMinigame_TripleTriad.rb
+PMinigame_SlotMachine.rb
+PMinigame_VoltorbFlip.rb
+PMinigame_Lottery.rb
+PMinigame_Mining.rb
+PMinigame_TilePuzzles.rb
+================ (17).rb
+PSystem_Controls.rb
+cambiarControles.rb
+PSystem_System.rb
+PSystem_Utilities.rb
+================ (18).rb
+Evolution_Moves.rb
+================ (19).rb
+Debug.rb
+TilesetEditor.rb
+BattleAnimationEditor.rb
+Editor.rb
+Compiler.rb
+================ (20).rb
+tutor de movimmientos.rb
+level cap +.rb
+diploma.rb
+buscarRotom.rb
+mentas.rb
+hiper entrenamiento 2.rb
+hiper entrenamiento.rb
+level cap.rb
+pokeradar.rb
+advance dex.rb
+mk.rb
+mostrarTipo.rb
+problemasDeEstado.rb
+hasType.rb
+piscucha.rb
+PWT.rb
+Main.rb
