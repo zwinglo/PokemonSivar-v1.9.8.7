@@ -5,52 +5,52 @@ Weaknesses=FIGHTING
 Immunities=GHOST
 
 [1]
-Name=Lucha
+Name=Combat
 InternalName=FIGHTING
 Weaknesses=FLYING,PSYCHIC,FAIRY
 Resistances=ROCK,BUG,DARK
 
 [2]
-Name=Volador
+Name=Vol
 InternalName=FLYING
 Weaknesses=ROCK,ELECTRIC,ICE
 Resistances=FIGHTING,BUG,GRASS
 Immunities=GROUND
 
 [3]
-Name=Veneno
+Name=Poison
 InternalName=POISON
 Weaknesses=GROUND,PSYCHIC
 Resistances=FIGHTING,POISON,BUG,GRASS,FAIRY
 
 [4]
-Name=Tierra
+Name=Sol
 InternalName=GROUND
 Weaknesses=WATER,GRASS,ICE
 Resistances=POISON,ROCK
 Immunities=ELECTRIC
 
 [5]
-Name=Roca
+Name=Roche
 InternalName=ROCK
 Weaknesses=FIGHTING,GROUND,STEEL,WATER,GRASS
 Resistances=NORMAL,FLYING,POISON,FIRE
 
 [6]
-Name=Bicho
+Name=Insecte
 InternalName=BUG
 Weaknesses=FLYING,ROCK,FIRE
 Resistances=FIGHTING,GROUND,GRASS
 
 [7]
-Name=Fantasma
+Name=Spectre
 InternalName=GHOST
 Weaknesses=GHOST,DARK
 Resistances=POISON,BUG
 Immunities=NORMAL,FIGHTING
 
 [8]
-Name=Acero
+Name=Acier
 InternalName=STEEL
 Weaknesses=FIGHTING,GROUND,FIRE
 Resistances=NORMAL,FLYING,ROCK,BUG,STEEL,GRASS,PSYCHIC,ICE,DRAGON,FAIRY
@@ -62,56 +62,56 @@ InternalName=QMARKS
 IsPseudoType=true
 
 [10]
-Name=Fuego
+Name=Feu
 InternalName=FIRE
 IsSpecialType=true
 Weaknesses=GROUND,ROCK,WATER
 Resistances=BUG,STEEL,FIRE,GRASS,ICE,FAIRY
 
 [11]
-Name=Agua
+Name=Eau
 InternalName=WATER
 IsSpecialType=true
 Weaknesses=GRASS,ELECTRIC
 Resistances=STEEL,FIRE,WATER,ICE
 
 [12]
-Name=Planta
+Name=Plante
 InternalName=GRASS
 IsSpecialType=true
 Weaknesses=FLYING,POISON,BUG,FIRE,ICE
 Resistances=GROUND,WATER,GRASS,ELECTRIC
 
 [13]
-Name=Eléctrico
+Name=Électrik
 InternalName=ELECTRIC
 IsSpecialType=true
 Weaknesses=GROUND
 Resistances=FLYING,STEEL,ELECTRIC
 
 [14]
-Name=Psíquico
+Name=Psy
 InternalName=PSYCHIC
 IsSpecialType=true
 Weaknesses=BUG,GHOST,DARK
 Resistances=FIGHTING,PSYCHIC
 
 [15]
-Name=Hielo
+Name=Glace
 InternalName=ICE
 IsSpecialType=true
 Weaknesses=FIGHTING,ROCK,STEEL,FIRE
 Resistances=ICE
 
 [16]
-Name=Dragón
+Name=Dragon
 InternalName=DRAGON
 IsSpecialType=true
 Weaknesses=ICE,DRAGON,FAIRY
 Resistances=FIRE,WATER,GRASS,ELECTRIC
 
 [17]
-Name=Siniestro
+Name=Ténèbres
 InternalName=DARK
 IsSpecialType=true
 Weaknesses=FIGHTING,BUG,FAIRY
@@ -119,7 +119,7 @@ Resistances=GHOST,DARK
 Immunities=PSYCHIC
 
 [18]
-Name=Hada
+Name=Fée
 InternalName=FAIRY
 IsSpecialType=true
 Weaknesses=POISON,STEEL
