@@ -1,0 +1,22 @@
+¿Se puede jugar con joystick?
+De manera nativa no, pero se pueden usar programas de terceros como joy to key
+
+¿Se puede jugar en android también?
+Si, con la app joiplay,  descargala aquí
+https://joiplay.uptodown.com/android/descargar/42986841
+
+¿Por qúe hay un Game y un GameOld?
+El Game esta más optimizado, pero no es compatible con AMD
+
+¿Cómo evoluciona X pokémon o qué movimientos aprende aquí?
+Mira su entrada en la pokédex y revisa la pestaña "adv"
+
+¿Por qué no funciona la opción de cambiar fuentes?
+No me resultan agradables a la vista, pero si queres usar las fuentes de gba/ds renombra la carpeta "Font" a "Fonts" para que la reconozca el juego
+
+¿Puedo pasar mi partida de la pc al celular?
+Si, simplemente ve a donde está la partida y copia el Game.rxdata a la carpeta raíz del juego, así lo leera el celular
+
+¿Dónde se guarda mi partida?
+Disco Local>Usuarios>Tu usuario>Juegos guardados>Pokemon Sivar
+

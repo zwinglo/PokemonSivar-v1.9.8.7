@@ -1,0 +1,38 @@
+HiddenMoveHandlers::CanUseMove.add(:FLY,proc{|move,pkmn|
+   if !$DEBUG &&
+      !(HIDDENMOVESCOUNTBADGES ? $Trainer.numbadges>=BADGEFORFLY : $Trainer.badges[BADGEFORFLY])
+     Kernel.pbMessage(_INTL("No tienes el número necesario de medallas."))
+     return false
+   end
+   if $game_player.pbHasDependentEvents?
+     Kernel.pbMessage(_INTL("No se puede utilizar cuando estás con alguien."))
+     return false
+   end
+   if !pbGetMetadata($game_map.map_id,MetadataOutdoor)
+     Kernel.pbMessage(_INTL("No se puede usar aquí."))
+     return false
+   end
+   return true
+})
+
+HiddenMoveHandlers::UseMove.add(:FLY,proc{|move,pokemon|
+   if !$PokemonTemp.flydata
+     Kernel.pbMessage(_INTL("No se puede usar aquí."))
+   end
+   if !pbHiddenMoveAnimation(pokemon)
+     Kernel.pbMessage(_INTL("¡{1} ha usado {2}!",pokemon.name,PBMoves.getName(move)))
+   end
+   pbFadeOutIn(99999){
+      Kernel.pbCancelVehicles
+      $game_temp.player_new_map_id=$PokemonTemp.flydata[0]
+      $game_temp.player_new_x=$PokemonTemp.flydata[1]
+      $game_temp.player_new_y=$PokemonTemp.flydata[2]
+      $PokemonTemp.flydata=nil
+      $game_temp.player_new_direction=2
+      $scene.transfer_player
+      $game_map.autoplay
+      $game_map.refresh
+   }
+   pbEraseEscapePoint
+   return true
+})

@@ -1,0 +1,1032 @@
+﻿[000]
+TrainerVictoryME=Victory - Trainer
+WildVictoryME=Victory - Wild Pokemon
+TrainerBattleBGM=pokemon fire red battle theme.ogg
+SurfBGM=Ship.mid
+Home=3,7,5,8
+WildBattleBGM=fire red wild encounter.ogg
+PlayerC=CIPITIO,trchar002,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+[001]
+# Intro
+[002]
+# comedor
+MapPosition=0,17,8
+[003]
+# Casa de \PN
+MapPosition=0,27,15
+BattleBack=IndoorB
+HealingSpot=2,8,8
+[004]
+# Laboratorio Pokémon
+MapPosition=0,27,15
+[005]
+# Ruta 13
+ShowArea=true
+MapPosition=0,13,11
+Outdoor=true
+[006]
+# Casa de Kurt
+MapPosition=0,13,11
+[007]
+# Soyapango
+ShowArea=true
+MapPosition=0,20,15
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+MapSize=2,11
+HealingSpot=7,47,11
+[008]
+# Casa del rival
+MapPosition=0,27,15
+[009]
+# Centro Pokémon
+MapPosition=0,14,10
+HealingSpot=8,17,11
+[010]
+# Gimnasio
+MapPosition=0,20,15
+BattleBack=IndoorB
+[011]
+# Laboratorio de billy
+MapPosition=0,12,6
+[012]
+# Laboratorio
+MapPosition=0,14,10
+[013]
+# Casa
+MapPosition=0,12,12
+[014]
+# Multiplaza
+ShowArea=true
+MapPosition=0,12,14
+[015]
+# Multiplaza P1
+MapPosition=0,12,14
+[016]
+# Multiplaza P2
+MapPosition=0,12,14
+[017]
+# Multiplaza P3
+MapPosition=0,12,14
+[018]
+# Multiplaza P4
+MapPosition=0,12,14
+[019]
+# Multiplaza Azotea
+MapPosition=0,12,14
+[020]
+# Multiplaza Ascensor
+MapPosition=0,12,14
+[021]
+# Ruta 1
+ShowArea=true
+MapPosition=0,20,16
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+MapSize=1,11
+[022]
+# La Nacional
+ShowArea=true
+MapPosition=0,12,8
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+HealingSpot=22,53,31
+[023]
+# Chalatenango
+ShowArea=true
+MapPosition=0,14,6
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+HealingSpot=23,11,15
+[024]
+# Centro Pokémon
+MapPosition=0,14,6
+HealingSpot=23,11,15
+[025]
+# Tienda
+MapPosition=0,14,6
+[026]
+# Alcohólicos anónimos
+ShowArea=true
+MapPosition=0,14,6
+[027]
+# Guardería Pokémon
+MapPosition=0,14,6
+[028]
+# Parque Natural
+ShowArea=true
+MapPosition=0,16,8
+Outdoor=true
+BattleBack=Forest
+[029]
+# Entrada Parque Natural
+MapPosition=0,16,8
+Bicycle=true
+[030]
+# Sala Parque Natural
+MapPosition=0,16,8
+[031]
+# Ruta 2
+ShowArea=true
+MapPosition=0,17,13
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+MapSize=2,1101
+[032]
+# Mina San Miguel
+ShowArea=true
+MapPosition=0,20,15
+Bicycle=true
+[033]
+# Centro Pokémon
+MapPosition=0,20,15
+[034]
+# Cueva Helada
+MapPosition=0,15,6
+Bicycle=true
+BattleBack=IndoorC
+[035]
+# Izalco
+ShowArea=true
+MapPosition=0,7,7
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+[036]
+# Lobby
+MapPosition=0,7,7
+HealingSpot=35,17,7
+[037]
+# El macroverso
+ShowArea=true
+MapPosition=0,0,0
+SnapEdges=true
+BattleBack=EliteA
+[038]
+# Cima
+MapPosition=0,7,8
+Outdoor=true
+SnapEdges=true
+[039]
+# Ruta 8
+ShowArea=true
+MapPosition=0,11,6
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+MapSize=2,11
+[040]
+# Ruta 10
+ShowArea=true
+MapPosition=0,14,9
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+[041]
+# Ruta 7
+ShowArea=true
+MapPosition=0,10,10
+Outdoor=true
+BicycleAlways=true
+Bicycle=true
+SnapEdges=true
+MapSize=1,111
+[042]
+# Museo arqueológico
+ShowArea=true
+MapPosition=0,12,10
+[043]
+# Centro Pokémon
+MapPosition=0,12,10
+[044]
+# Ruta 6
+ShowArea=true
+MapPosition=0,11,14
+Outdoor=true
+BicycleAlways=true
+Bicycle=true
+SnapEdges=true
+MapSize=2,11
+[045]
+# Sin usar
+ShowArea=true
+MapPosition=0,11,10
+Outdoor=true
+[046]
+# Entrada Ruta Ciclista
+MapPosition=0,11,6
+Bicycle=true
+[047]
+# Ruta 3
+ShowArea=true
+MapPosition=0,13,10
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+Weather=Rain,0
+MapSize=2,11
+[048]
+# Ruta 5
+ShowArea=true
+MapPosition=0,12,13
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+[049]
+# Cueva Rocosa
+MapPosition=0,13,10
+Bicycle=true
+[050]
+# Cueva Rocosa
+MapPosition=0,13,10
+Bicycle=true
+DarkMap=true
+BattleBack=CaveDark
+[051]
+# Mazmorra
+MapPosition=0,13,10
+Dungeon=true
+Bicycle=true
+[052]
+# Frente de Batalla
+ShowArea=true
+MapPosition=0,17,10
+Outdoor=true
+[053]
+# Centro Pokémon
+MapPosition=0,17,10
+HealingSpot=52,17,14
+[054]
+# Tienda
+MapPosition=0,17,10
+[055]
+# Torre Batalla
+MapPosition=0,17,10
+HealingSpot=52,30,10
+[056]
+# Campo Torre Batalla
+MapPosition=0,17,10
+BattleBack=EliteA
+[057]
+# Hall Copa Estadio
+MapPosition=0,17,10
+[058]
+# Palacio Batalla
+MapPosition=0,17,10
+[059]
+# Campo Palacio Batalla
+MapPosition=0,17,10
+BattleBack=EliteD
+[060]
+# Dojo Batalla
+MapPosition=0,17,10
+[061]
+# Campo Dojo Batalla
+MapPosition=0,17,10
+BattleBack=EliteB
+[062]
+# Fábrica Batalla
+MapPosition=0,17,10
+[063]
+# Intro Pasillo de Fábrica Batalla
+MapPosition=0,17,10
+[064]
+# Campo Fábrica Batalla
+MapPosition=0,17,10
+BattleBack=EliteC
+[065]
+# Pasillo de Fábrica Batalla
+MapPosition=0,17,10
+[066]
+# Zona Safari
+ShowArea=true
+MapPosition=0,12,12
+Outdoor=true
+[067]
+# Entrada Zona Safari
+MapPosition=0,12,12
+[068]
+# Zona Safari
+SafariMap=true
+ShowArea=true
+MapPosition=0,12,12
+Outdoor=true
+BattleBack=Forest
+[069]
+# Multiplaza Sótano
+MapPosition=0,12,14
+SnapEdges=true
+BattleBack=Field
+[070]
+# Fondo Marino
+MapPosition=0,13,13
+[071]
+# Puerto
+MapPosition=0,27,15
+[072]
+# Isla Daroxy
+ShowArea=true
+MapPosition=0,18,17
+Outdoor=true
+Weather=Storm,50
+[073]
+# Lips
+ShowArea=true
+MapPosition=0,12,10
+[074]
+# Mazmorras
+MapPosition=0,12,10
+Bicycle=true
+[075]
+# Santa Ana
+MapPosition=0,12,6
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+[076]
+# Isla Conejo
+ShowArea=true
+MapPosition=0,27,15
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+HealingSpot=76,25,15
+[077]
+# Cabañas
+ShowArea=true
+MapPosition=0,17,8
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+HealingSpot=77,19,17
+[078]
+# Santa Ana
+ShowArea=true
+MapPosition=0,12,6
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+HealingSpot=78,53,8
+[079]
+# La Libertad
+ShowArea=true
+MapPosition=0,12,14
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+HealingSpot=79,29,19
+[080]
+# San Miguel
+ShowArea=true
+MapPosition=0,20,15
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+HealingSpot=80,39,19
+[081]
+# San Salvador
+ShowArea=true
+MapPosition=0,12,10
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+HealingSpot=81,24,27
+[082]
+# Seguro
+ShowArea=true
+MapPosition=0,12,10
+[083]
+# Cuarto verde 2
+MapPosition=0,12,14
+[084]
+# Baños
+MapPosition=0,12,8
+[085]
+# Centro Pokémon
+MapPosition=0,14,8
+[086]
+# Centro Pokémon
+MapPosition=0,12,14
+[087]
+# Taller
+MapPosition=0,12,6
+[088]
+# Gimnasio
+MapPosition=0,12,6
+[089]
+# Centro Pokémon
+MapPosition=0,12,6
+[090]
+# Ruta 9
+ShowArea=true
+MapPosition=0,13,6
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+[091]
+# El Pital
+ShowArea=true
+MapPosition=0,14,6
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+Weather=Snow,100
+[092]
+# Gimnasio
+MapPosition=0,14,6
+[093]
+# Ruta 11
+ShowArea=true
+MapPosition=0,15,8
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+[094]
+# Cuarto verde 3
+MapPosition=0,12,14
+[095]
+# Casa
+MapPosition=0,14,8
+[096]
+# comedor
+MapPosition=0,14,8
+[097]
+# Centro Pokémon
+MapPosition=0,17,8
+[098]
+# Ruta 12
+ShowArea=true
+MapPosition=0,12,9
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+[099]
+# Tazumal 1F
+MapPosition=0,12,6
+[100]
+# Polideportivo
+ShowArea=true
+MapPosition=0,12,8
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+[101]
+# eventos
+[102]
+# Cuarto verde 4
+MapPosition=0,12,14
+[103]
+# Tienda
+MapPosition=0,20,18
+[104]
+# Centro Pokémon
+MapPosition=0,20,18
+[105]
+# Tienda
+MapPosition=0,12,8
+[106]
+# Tienda
+MapPosition=0,12,10
+[107]
+# Tienda
+MapPosition=0,20,15
+[108]
+# Tienda
+MapPosition=0,12,14
+[109]
+# Tienda
+MapPosition=0,12,6
+[110]
+# Tienda
+MapPosition=0,17,8
+[111]
+# Centro Pokémon
+MapPosition=0,12,8
+[112]
+# torneo lobby
+MapPosition=0,12,8
+[113]
+# torneo estadio
+MapPosition=0,12,8
+[114]
+# S.S. Bitcoin
+MapPosition=0,12,14
+[115]
+# Mina San Miguel
+MapPosition=0,20,15
+Bicycle=true
+[116]
+# torneo
+MapPosition=0,12,8
+[117]
+# Tienda
+MapPosition=0,20,15
+[118]
+# Bus
+[119]
+# Ingeniería y Arquitectura
+[120]
+# Taller de mecánica
+ShowArea=true
+[121]
+# cuarto bitcoin
+[125]
+# Mina San Miguel
+MapPosition=0,20,15
+Bicycle=true
+[126]
+# Casa de \PN copia
+[127]
+# Isla Conejo copia
+[128]
+# Casa del rival copia
+[129]
+# Puerto copia
+[130]
+# Puerto
+MapPosition=0,20,18
+[131]
+# Casa
+MapPosition=0,20,18
+[132]
+# Casa
+MapPosition=0,20,18
+[133]
+# Casa
+MapPosition=0,20,15
+[134]
+# Casa
+MapPosition=0,20,15
+[135]
+# Casa
+MapPosition=0,20,15
+[136]
+# comedor
+MapPosition=0,20,15
+[137]
+# Proa
+MapPosition=0,12,14
+Outdoor=true
+SnapEdges=true
+[138]
+# Casa
+MapPosition=0,12,6
+[139]
+# Ruta 4
+ShowArea=true
+MapPosition=0,12,11
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+[140]
+# Gimnasio
+MapPosition=0,14,10
+[141]
+# Seguro 2F
+MapPosition=0,12,10
+[142]
+# Santa Tecla
+ShowArea=true
+MapPosition=0,12,12
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+HealingSpot=142,26,27
+[143]
+# SS Bitcoin
+ShowArea=true
+MapPosition=0,12,14
+[144]
+# Cuarto verde 1
+MapPosition=0,12,14
+[145]
+# Cuarto verde 5
+MapPosition=0,12,14
+[146]
+# Cuarto del capitán
+MapPosition=0,12,14
+[147]
+# S.S. Bitcoin 2F
+MapPosition=0,12,14
+[148]
+# Cuarto anaranjado 1
+MapPosition=0,12,14
+[149]
+# Cuarto anaranjado 2
+MapPosition=0,12,14
+[150]
+# Cuarto anaranjado 3
+MapPosition=0,12,14
+[151]
+# Cuarto anaranjado 4
+MapPosition=0,12,14
+[152]
+# Cuarto anaranjado 5
+MapPosition=0,12,14
+[153]
+# Cuarto anaranjado 6
+MapPosition=0,12,14
+[154]
+# S.S. Bitcoin 3F
+MapPosition=0,12,14
+[155]
+# S.S. Bitcoin BF
+MapPosition=0,12,14
+[156]
+# Cuarto anaranjado 1
+MapPosition=0,12,14
+[157]
+# Cuarto anaranjado 2
+MapPosition=0,12,14
+[158]
+# Cuarto anaranjado 3
+MapPosition=0,12,14
+[159]
+# Cuarto anaranjado 4
+MapPosition=0,12,14
+[160]
+# Cuarto anaranjado 5
+MapPosition=0,12,14
+[161]
+# Gimnasio
+MapPosition=0,12,14
+[162]
+# Puerto
+ShowArea=true
+MapPosition=0,12,14
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+[163]
+# Apopa
+ShowArea=true
+MapPosition=0,14,8
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+HealingSpot=163,17,31
+[164]
+# Ruta 11 
+ShowArea=true
+MapPosition=0,15,8
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+[165]
+# Ciudades
+[166]
+# Rutas
+[167]
+# TCS
+ShowArea=true
+MapPosition=0,12,10
+[168]
+# Ruta 13
+ShowArea=true
+MapPosition=0,8,10
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+[169]
+# El imposible
+ShowArea=true
+MapPosition=0,7,9
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+[170]
+# Entrada
+MapPosition=0,7,9
+[171]
+# Salida
+MapPosition=0,7,9
+Bicycle=true
+[172]
+# Calle victoria
+MapPosition=0,7,8
+[173]
+# Calle victoria 2
+MapPosition=0,7,8
+[174]
+# Calle victoria 3
+MapPosition=0,7,8
+[175]
+# Calle victoria
+ShowArea=true
+MapPosition=0,7,8
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+[176]
+# Cueva oscura
+MapPosition=0,16,8
+Bicycle=true
+DarkMap=true
+[177]
+# Mansión Gui.
+ShowArea=true
+MapPosition=0,12,12
+[178]
+# Alto mando 1
+MapPosition=0,7,7
+[179]
+# Alto mando 2
+MapPosition=0,7,7
+[180]
+# Alto mando 3
+MapPosition=0,7,7
+[181]
+# Alto mando 4
+MapPosition=0,7,7
+[182]
+# Campeon
+MapPosition=0,7,7
+[183]
+# Hall de la fama
+MapPosition=0,7,7
+[184]
+# Mansion Gui. 2F
+MapPosition=0,12,12
+[185]
+# Mansion Gui. 3F
+MapPosition=0,12,12
+[186]
+# Mansion Gui. BF
+MapPosition=0,12,12
+[187]
+# Torre Cabañas
+ShowArea=true
+MapPosition=0,17,8
+[188]
+# Torre Cabañas 2
+MapPosition=0,17,8
+[189]
+# Torre Cabañas 3
+MapPosition=0,17,8
+[190]
+# Torre Cabañas  4
+MapPosition=0,17,8
+[191]
+# Torre Cabañas 5
+MapPosition=0,17,8
+[192]
+# Torre Cabañas 6
+MapPosition=0,17,8
+[193]
+# Torre Cabañas 7
+MapPosition=0,17,8
+[194]
+# Tazumal antesala
+MapPosition=0,12,6
+[195]
+# Tazumal 2F
+MapPosition=0,12,6
+[196]
+# Tazumal 3F
+MapPosition=0,12,6
+[197]
+# Tazumal
+ShowArea=true
+MapPosition=0,12,6
+Outdoor=true
+Bicycle=true
+WildBattleBGM=HoOh battle theme
+SnapEdges=true
+[198]
+# Tazumal 4F
+MapPosition=0,12,6
+[199]
+# Tazumal 5F
+MapPosition=0,12,6
+[200]
+# Tazumal 6F
+MapPosition=0,12,6
+[201]
+# Altar
+MapPosition=0,12,6
+[202]
+# Gimnasio
+MapPosition=0,12,10
+[203]
+# Estadio
+MapPosition=0,12,6
+[204]
+# TCS 3F
+MapPosition=0,12,10
+[205]
+# armería
+MapPosition=0,14,10
+[206]
+# Casa
+MapPosition=0,12,10
+[207]
+# Casa
+MapPosition=0,12,12
+[208]
+# Casa
+MapPosition=0,12,14
+[209]
+# Casa
+MapPosition=0,12,6
+[210]
+# Casa
+MapPosition=0,14,6
+[211]
+# Casa
+MapPosition=0,14,8
+[212]
+# Casa
+MapPosition=0,17,8
+[213]
+# Cuarto secreto
+MapPosition=0,12,12
+[214]
+# Club Fanáticos Pokémon
+[215]
+# Ciencias Naturales y Matemática
+ShowArea=true
+MapPosition=0,12,8
+[216]
+# Humanidades
+ShowArea=true
+MapPosition=0,12,8
+[217]
+# Ingeníeria y Arquitectura
+ShowArea=true
+MapPosition=0,12,8
+[218]
+# Agronomía
+ShowArea=true
+MapPosition=0,12,8
+[219]
+# Odontología
+ShowArea=true
+MapPosition=0,12,8
+[220]
+# Medicina
+ShowArea=true
+MapPosition=0,12,8
+[221]
+# Jurisprudencia
+ShowArea=true
+MapPosition=0,12,8
+[222]
+# Química y Farmacia
+ShowArea=true
+MapPosition=0,12,8
+[223]
+# Facultades
+MapPosition=0,12,8
+[224]
+# Ciencias Económicas
+ShowArea=true
+MapPosition=0,12,8
+[225]
+# Gimnasio
+MapPosition=0,12,8
+[226]
+# El más allá 1F
+SnapEdges=true
+[227]
+# El más allá 2F
+SnapEdges=true
+[228]
+# El más allá 3F
+SnapEdges=true
+[229]
+# El más allá 4F
+SnapEdges=true
+[230]
+# El más allá 5F
+SnapEdges=true
+[231]
+# El más allá 6F
+SnapEdges=true
+[232]
+# El más allá 8F
+SnapEdges=true
+[233]
+# El más allá 7F
+SnapEdges=true
+[234]
+# Gimnasio
+MapPosition=0,14,8
+[235]
+# ?
+ShowArea=true
+[236]
+# Cueva oscura
+MapPosition=0,16,8
+Bicycle=true
+DarkMap=true
+[237]
+# Cuarto verde 6
+MapPosition=0,12,14
+[238]
+# Cuarto verde 7
+MapPosition=0,12,14
+[239]
+# Cocina
+MapPosition=0,12,14
+[240]
+# Gimnasio
+MapPosition=0,12,12
+[241]
+# Centro Pokémon
+MapPosition=0,12,12
+[242]
+# Tienda
+MapPosition=0,12,12
+[243]
+# Gimnasio
+MapPosition=0,17,8
+[244]
+# Piscina
+MapPosition=0,12,8
+[245]
+# Estadio
+MapPosition=0,12,8
+[246]
+# El Espino
+ShowArea=true
+MapPosition=0,20,18
+Outdoor=true
+Bicycle=true
+SnapEdges=true
+[247]
+# El macroverso
+SnapEdges=true
+[248]
+# El macroverso
+SnapEdges=true
+[249]
+# El macroverso
+SnapEdges=true
+[250]
+# El macroverso
+SnapEdges=true
+[251]
+# El macroverso
+SnapEdges=true
+[252]
+# El macroverso
+SnapEdges=true
+[253]
+# Casa
+MapPosition=0,14,10
+[254]
+# Casa
+MapPosition=0,14,10
+[255]
+# tiendas
+MapPosition=0,12,8
+[256]
+# Casa
+MapPosition=0,14,10
+[257]
+# TCS 2F
+MapPosition=0,12,10
+[258]
+# club movimientos
+[259]
+# cuartos
+MapPosition=0,12,8
+[260]
+# Casa
+MapPosition=0,12,10
+[261]
+# rincón de juegos
+[262]
+# Casa
+MapPosition=0,12,12
+[263]
+# Casa
+MapPosition=0,12,14
+[264]
+# Casa
+MapPosition=0,12,14
+[265]
+# Casa
+MapPosition=0,12,6
+[267]
+# Casa
+MapPosition=0,14,6
+[268]
+# Casa
+MapPosition=0,14,6
+[269]
+# Casa
+MapPosition=0,14,6
+[270]
+# Casa
+MapPosition=0,14,8
+[271]
+# Casa
+MapPosition=0,17,8
